@@ -1,0 +1,12 @@
+{
+  "extends": "../.eslintrc.json",
+  "env": {
+    "mocha": true,
+    "browser": true
+  },
+  "globals": {
+    "expect": true,
+    "makeWebpackConfig": true,
+    "webpackCompile": true
+  }
+}

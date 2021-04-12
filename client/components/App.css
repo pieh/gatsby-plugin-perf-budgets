@@ -1,0 +1,8 @@
+.itemRow:hover {
+  background: yellow;
+}
+
+.container {
+  flex: 1;
+  overflow-y: auto;
+}

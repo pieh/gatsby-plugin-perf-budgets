@@ -1,0 +1,23 @@
+.container {
+  font: var(--main-font);
+  white-space: nowrap;
+}
+
+.label {
+  font-weight: bold;
+  font-size: 11px;
+  margin-bottom: 7px;
+}
+
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -5px;
+  margin-top: -5px;
+}
+
+.item {
+  margin-left: 5px;
+  margin-top: 5px;
+  /* margin-left: 5px; */
+}

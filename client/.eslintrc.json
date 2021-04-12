@@ -1,0 +1,20 @@
+{
+  "extends": [
+    "th0r-react",
+    "../.eslintrc.json"
+  ],
+  "settings": {
+    "react": {
+      "version": "16.2"
+    }
+  },
+  "parserOptions": {
+    "ecmaFeatures": {
+      "legacyDecorators": true
+    }
+  },
+  "rules": {
+    "react/jsx-key": "off",
+    "react/jsx-no-bind": "off"
+  }
+}

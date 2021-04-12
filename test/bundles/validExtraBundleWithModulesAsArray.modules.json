@@ -1,0 +1,6 @@
+{
+  "modules": {
+    "2": "function(t,e,r){'123'}",
+    "5": "function(t,e){'12345'}"
+  }
+}

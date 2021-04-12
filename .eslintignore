@@ -1,0 +1,22 @@
+# Node modules
+node_modules
+
+# Generated code
+lib
+public
+
+# Vendor code
+client/vendor
+
+# Test fixtures
+test/bundles
+test/stats
+test/webpack.config.js
+
+# Test results
+test/output
+
+# Webpack config
+webpack.config.js
+
+samples

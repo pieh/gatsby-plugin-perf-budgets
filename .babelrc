@@ -1,0 +1,12 @@
+// Babel config for Node
+// Compiles sources, gulpfile and tests
+{
+  "presets": [
+    ["@babel/preset-env", {
+      "targets": {"node": "6.14.4"}
+    }]
+  ],
+  "plugins": [
+    ["@babel/plugin-proposal-class-properties", {"loose": true}]
+  ]
+}
