@@ -1,6 +1,6 @@
 **gatsby-plugin-perf-budgets** is an *experimental* plugin to make browsing bundles on a page basis easier. It is used in conjunction with `gatsby-plugin-bundle-analyser-v2`. 
 
-Install:
+## Installation
 
 ```
 npm i gatsby-plugin-webpack-bundle-analyser-v2 -D
