@@ -3,15 +3,13 @@
 ## Installation
 
 ```
-npm i gatsby-plugin-webpack-bundle-analyser-v2 -D
-npm i gatsby-plugin-perf-budgets -D
+npm i gatsby-plugin-webpack-bundle-analyser-v2 gatsby-plugin-perf-budgets -D
 ```
 
 or
 
 ```
-npm i gatsby-plugin-webpack-bundle-analyser-v2 -D
-npm i gatsby-plugin-perf-budgets -D
+yarn add gatsby-plugin-webpack-bundle-analyser-v2 gatsby-plugin-perf-budgets -D
 ```
 
 ## Usage
